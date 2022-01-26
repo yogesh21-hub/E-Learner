@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.normal-button{
+	width: 280px;
+	height: 53px;
+	font-size: 22px;
+	border-radius: 30px;
+	margin: 12px;
+	background-color: white;
+	color:black;
+}
+
+div.form{
+	padding-top: 30px;
+	}
+
+.exit-button{
+	width: 120px;
+	border-radius: 30px;
+	margin: 20px;
+}

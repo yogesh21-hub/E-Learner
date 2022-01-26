@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+
+div.form{
+	margin-top: 82px;
+	margin-left: calc(50% - 240px);
+	padding-top: 80px;
+	background-color: white;
+	width: 480px;
+	height: 550px;
+	border-radius: 15px;
+	text-align: center;
+}
+
+input{
+	width: 200px;
+	height: 42px;
+	border-radius: 8px;
+	border-color: #8cbaff;
+}
+
+
+
+label{
+	width: 120px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	text-align: left;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.wrong{
+	color: red;
+}
+
+.submit{
+	margin-top:20px;
+	width: 100px;
+}
+
+body{
+	background-image: url("css/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg");
+	background-size: cover;
+}
+
+

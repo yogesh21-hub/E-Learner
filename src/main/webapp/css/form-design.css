@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+div.form{
+	margin-top: 80px;
+	padding-top: 35px;
+	height: 550px;
+	width: 500px;
+	margin-left: calc(50% - 250px);
+}
+
+label{
+	width: 150px;
+	margin-bottom: 16px;
+	margin-top: 16px;
+	text-align: left;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+textarea{
+	width: 200px;
+	height: 80px;
+	border-radius: 10px;
+	border-color: #8cbaff;
+	margin-bottom: 6px;
+	margin-top: 6px;
+}

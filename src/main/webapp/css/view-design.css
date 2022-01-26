@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+div.form{
+	margin: 20px;
+	width: calc(100% - 40px);
+	padding-top: 30px;
+	height: 680px;
+}
+
+h2{
+	margin-bottom: 40px;
+}
+
+div.scroll{
+	height: 470px;
+	overflow: auto;
+}
+
+.exit-button{
+	width: 120px;
+	border-radius: 30px;
+}
